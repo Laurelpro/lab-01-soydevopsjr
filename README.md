@@ -1,4 +1,3 @@
-$ cat > README.md << 'EOF'
 # Lab 01 — Docker Fundamentals
 
 Stack web con Flask + PostgreSQL orquestado con Docker Compose, desplegado en una VM reproducible con Vagrant.
