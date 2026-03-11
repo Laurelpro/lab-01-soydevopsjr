@@ -22,8 +22,3 @@ curl http://localhost:5000
 - Construir imágenes Docker con Dockerfile
 - Orquestar múltiples contenedores con Docker Compose
 - Redes, volúmenes y variables de entorno en Docker
-EOF
-
-$ git add README.md
-$ git commit -m "docs: agregar README al portfolio"
-$ git push
